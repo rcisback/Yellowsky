@@ -1,0 +1,7 @@
+while true and task.wait() do
+    
+    game:GetService("ReplicatedStorage").ReverseSky:FireServer()
+
+
+    
+end
